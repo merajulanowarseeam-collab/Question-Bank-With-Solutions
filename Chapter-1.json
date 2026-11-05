@@ -1,1 +1,111 @@
-
+{
+  "chapterId": "chapter_01",
+  "chapterTitle": "Introduction to Agronomy",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Define Agriculture and Agronomy. *[CT 2025, CT 2024, CT 2023, CT 2018, Final 2023, Final 2022, Final 2020]*",
+      "answer": "**Agriculture** — derived from two Latin words, 'Ager' (land/field/soil) and 'Cultura' (cultivation). Agriculture is the science, art and business of crop production, livestock raising, fisheries and forestry for human welfare, by utilizing natural resources.\n\n**Agronomy** — derived from two Greek words, 'Agros' (field/land) and 'Nomos' (to manage/law). Agronomy is the branch of agricultural science dealing with the principles and practices of field-crop production and soil management, to secure maximum yield with efficiency and sustainability.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q2",
+      "question": "What is Agronomy? Explain its importance in the context of Bangladesh. *[Final 2025, Final 2021, Final 2020, Final 2019]*",
+      "answer": "**Agronomy** is the scientific discipline that manages the soil-crop-environment relationship to optimize field-crop yield and economic return.\n\n**Importance in Bangladesh:**\n• **Food & nutritional security** — agronomic techniques raise production of staple (rice, wheat, maize) and nutritional (pulses, oilseeds, vegetables) crops for a dense population.\n• **GDP contribution & employment** — agronomic practice provides livelihood to more than 40% of the labour force and directly raises land and labour productivity.\n• **Raw material for industry** — Agronomy ensures supply of jute, cotton, sugarcane, tobacco, oilseeds etc. that feed textile, sugar, edible-oil and other agro-based industries.\n• **Income generation & poverty reduction** — higher yields and cropping intensity achieved through agronomic packages raise farm household income, reduce rural poverty and generate marketable surplus.\n• **Cropping-system intensification** — Bangladesh already practises a cropping intensity well above 200%; further gains depend on short-duration varieties, timely planting, balanced nutrition and efficient water management — all core agronomic technologies.\n• **Climate resilience & sustainability** — Agronomy develops drought-, flood- and salinity-tolerant packages that help farmers adapt to climate change while maintaining soil health.\n• **Daily diet** — almost every item on a Bangladeshi plate (rice, dal, mustard oil, vegetables, spices) is the product of agronomic management.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q3",
+      "question": "Define Agronomy. How does Agronomy contribute to Bangladesh / national economy? *[Final 2024, CT 2025, CT 2024]*",
+      "answer": "**Definition:** Agronomy is the branch of agricultural science dealing with the principles and practices of field-crop production and soil management, to secure maximum yield with efficiency and sustainability.\n\n**Contribution to national economy:** raises GDP share of agriculture through higher cropping intensity and yield; supplies raw material to agro-based industries (textile, sugar, edible oil); creates rural employment and reduces poverty through income generation; builds food security that stabilises the macro-economy; earns foreign exchange through export of jute, tea and agro-products; underpins the input, processing and marketing value chains that depend on primary production.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q4",
+      "question": "Briefly describe the importance of Agronomy in our daily life / daily diet and income generation. *[CT 2023, CT 2022, Final 2023, Final 2019]*",
+      "answer": "**Daily life / diet:** rice, dal, mustard oil, vegetables and spices on a Bangladeshi plate are all products of agronomic management of crop and soil.\n\n**Income generation:** higher yields and cropping intensity achieved through agronomic packages raise farm household income; custom services (tillage, irrigation, harvesting) and surplus marketing create additional non-farm income; agronomic value addition (seed production, intensive cropping) diversifies rural livelihoods.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q5",
+      "question": "State / write down the basic principles of Agronomy. Describe any three principles with examples. *[Final 2024, Final 2022, Final 2021, Final 2019, Final 2018, CT 2018, CT 2016]*",
+      "answer": "**The basic principles of Agronomy:**\n1. Selection of appropriate crops and varieties suited to the prevailing agro-climatic and soil conditions.\n2. Proper tillage and seed-bed preparation to create ideal tilth.\n3. Use of high-quality seeds / planting materials of recommended varieties.\n4. Optimum time, method, depth, density and geometry of sowing / planting.\n5. Balanced and integrated nutrient management (organic + inorganic + bio-fertilisers).\n6. Efficient water management (irrigation at critical stages + proper drainage).\n7. Integrated weed, insect and disease management.\n8. Timely harvesting, threshing, drying and post-harvest handling to minimise losses.\n9. Maintenance of soil fertility and productivity on a long-term basis.\n\n**Description with examples (all nine, since any year's paper may ask for a different subset of three):**\n• **Selection of crops/varieties:** matching crop/variety to agro-climate and soil avoids yield loss from mismatch. Example: short-duration BRRI dhan33/dhan39 fitted into T.Aman–Boro systems to allow timely Boro planting.\n• **Tillage & seed-bed preparation:** tillage modifies soil structure, aeration and moisture regime. Example: puddling creates a soft, impermeable layer ideal for transplanted Boro rice, while a fine firm seedbed is prepared for small-seeded crops such as mustard and sesame.\n• **High-quality seed/planting material:** genetically pure, disease-free, high-germination seed is the base of yield potential. Example: BADC-certified seed of BRRI dhan29 ensures uniform stand and expected yield.\n• **Optimum sowing time, depth, density, geometry:** each crop has an ideal plant population and geometry for light/nutrient capture. Example: line sowing of mustard at 30 cm row spacing versus random broadcasting; 20×15 cm spacing for transplanted Boro rice.\n• **Balanced nutrient application:** supply of N, P, K, S, Zn etc. according to soil test and crop requirement prevents deficiency and excess. Example: in high-yielding rice, recommended NPK is supplemented with gypsum (S) and zinc sulphate; deep placement of urea super granules (USG) reduces N loss.\n• **Water management at critical stages:** moisture stress at flowering or grain-filling causes irreversible yield loss. Example: in T.Aman rice a thin water layer is maintained from panicle initiation to flowering; Alternate Wetting and Drying (AWD) saves water without yield penalty.\n• **Integrated weed, insect and disease management:** timely weeding (within 15–45 DAS) and need-based plant protection prevent 20–40% potential yield loss. Example: two hand-weedings in T.Aman at 20 and 40 DAS.\n• **Timely harvest & post-harvest handling:** delayed harvest increases shattering and grain damage; proper drying to 12–14% moisture prevents storage loss. Example: harvesting Boro rice at 80–85% grain maturity to minimise shattering.\n• **Long-term soil fertility maintenance:** continuous cropping without replenishment mines soil nutrients and organic matter. Example: inclusion of a legume (mungbean/dhaincha) in the cropping pattern restores soil nitrogen and organic matter.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q6",
+      "question": "State the scope of Agronomy. *[Final 2022, Final 2018, CT 2018]*",
+      "answer": "Agronomy covers the entire spectrum of field-crop production and soil management. Its major areas include: crop and variety selection; tillage and land preparation; seed technology; planting geometry; nutrient and water management; weed science; cropping-system design; climate-risk management; soil-fertility maintenance; and sustainable intensification.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q7",
+      "question": "How does Agronomy interact / relate with other branches of Agricultural Science? *[Final 2025, Final 2021, Final 2020]*",
+      "answer": "Agronomy is the central, integrative discipline of agriculture and interacts closely with almost every other branch:\n\n• **Soil Science:** soil physical, chemical and biological properties determine crop growth; agronomic practices (tillage, organic matter, fertilisers) in turn modify soil properties.\n• **Plant Breeding & Genetics:** new varieties developed by breeders must be agronomically evaluated for yield, adaptation and management packages.\n• **Crop Physiology:** understanding of photosynthesis, partitioning and stress physiology guides agronomic decisions on planting density, irrigation and nutrition.\n• **Agricultural Engineering:** design of tillage implements, planters, irrigation systems and harvesters is guided by agronomic requirements.\n• **Plant Pathology & Entomology:** integrated pest and disease management is part of the agronomic package.\n• **Agricultural Economics:** cost-benefit analysis of agronomic interventions and market-oriented cropping systems.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q8",
+      "question": "Name two components of Agronomy with examples. *[CT 2024]*",
+      "answer": "**Crop management:** selection of variety, sowing method and density — e.g. line sowing versus broadcasting of mustard.\n\n**Soil and nutrient management:** soil testing, manures, fertilisers and amendments — e.g. deep placement of Urea Super Granules (USG) in rice.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q9",
+      "question": "Show the different dimensions of relationship between crop, livestock and fisheries sectors through a schematic diagram. *[CT 2023, CT 2022, Final 2023]*",
+      "answer": "Crop, livestock and fisheries form a closed nutrient-and-energy loop:\n\n• Crop sector supplies grain, straw, green fodder and oil-cake to livestock.\n• Livestock returns farmyard manure (FYM), draught power and cash to the crop sector.\n• Crop by-products and aquatic weeds support fish culture; fish ponds in turn supply nutrient-rich silt and water to crops.\n• Livestock manure can also fertilise fish ponds, closing the three-way loop.\n\n**[Diagram: three boxes — Crop Sector, Livestock Sector, Fisheries Sector — joined by labelled two-way arrows]**\n\n**CROP SECTOR** ↔ **LIVESTOCK SECTOR** (straw, fodder, bran → ; ← FYM, draught power)\n**CROP SECTOR** ↔ **FISHERIES SECTOR** (crop residues → ; ← pond silt, water)\n**LIVESTOCK SECTOR** ↔ **FISHERIES SECTOR** (manure/slurry → ; ← fish meal)",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q10",
+      "question": "Explain 'Invest' and 'Exchange' linkages between crop and livestock components. What are the different linkages between crop and livestock interaction? *[CT 2025, CT 2024]*",
+      "answer": "**Exchange linkages:** direct material transfer between sectors — crop provides straw, green fodder and bran to livestock; livestock provides FYM, cowdung manure and draught power/tillage to crops.\n\n**Invest linkages:** financial capital flows — income generated from the crop sector is invested in purchasing livestock (dairy cattle, poultry), or livestock sales finance crop inputs (seed, fertiliser, fuel).\n\n**Other recognised linkages:** recycling linkage (crop residue → feed → manure → soil), and risk-diversification linkage (livestock as a buffer asset against crop failure).",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q11",
+      "question": "Write down the importance of agriculture under context of Bangladesh. *[CT 2016]*",
+      "answer": "Agriculture is the single largest source of employment and livelihood in Bangladesh; it ensures national food security for a dense population; it supplies raw material to agro-based industry; it earns foreign exchange through export crops; and it underlies rural income, poverty reduction and overall GDP growth.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q12",
+      "question": "Mention the salient features of crops. *[CT 2016]*",
+      "answer": "Crops are cultivated plants grown under human care and management; they are grown collectively over an area for a specific economic product (grain, fibre, sugar, oil); their growth is governed by genotype, environment and management (G×E×M); they complete a defined life cycle within a season; and they are harvested, processed and marketed as the end product of agronomic management.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q13",
+      "question": "Differentiate between Agriculture and Agronomy. *[Possible — not yet in CT/Final history]*",
+      "answer": "**Agriculture** is the broader science, art and business covering crop production, livestock, fisheries and forestry, whereas **Agronomy** is the specific branch of agriculture dealing only with field-crop production and soil management. Agriculture is the whole; Agronomy is a specialised component of it, focused on maximising crop yield with efficiency and sustainability through scientific principles and practices.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q14",
+      "question": "What are the objectives of studying Agronomy? *[Possible — not yet in CT/Final history]*",
+      "answer": "To understand the soil-crop-environment relationship for optimum yield; to apply scientific principles (tillage, nutrition, water, pest management) efficiently; to design sustainable, climate-resilient cropping systems; to minimise production cost and maximise net return; and to ensure food and nutritional security through improved crop productivity.",
+      "marks": 5,
+      "type": "broad"
+    },
+    {
+      "id": "q15",
+      "question": "Short Note: Components of Agronomy. *[Possible — not yet in CT/Final history]*",
+      "answer": "Agronomy's major components are (i) **crop management** — variety choice, sowing method, density; (ii) **soil and nutrient management** — testing, manuring, fertilisation; (iii) **water management** — irrigation scheduling and drainage; (iv) **weed science**; and (v) **cropping-system design** — intensification, diversification and sustainability planning.",
+      "marks": 2,
+      "type": "short"
+    }
+  ]
+}
